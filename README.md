@@ -1,4 +1,4 @@
-# Olá! Me chamo Kayo
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=050ABD&lines=Eu+sou+o+Kayo!!!!)](https://git.io/typing-svg)
 Onde Vivem?  Ultra-Secret ❓;
 O que fazem? Estudam Linguagens de Programação 📚💻;
 O que comem? Café ☕;
