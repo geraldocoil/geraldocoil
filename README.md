@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=050ABD&lines=Eu+sou+o+Kayo!!!!)](https://git.io/typing-svg)
+<br>
 Onde Vivem?  Ultra-Secret ❓;
 O que fazem? Estudam Linguagens de Programação 📚💻;
 O que comem? Café ☕;
